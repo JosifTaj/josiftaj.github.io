@@ -642,9 +642,10 @@ footer p {
 }
 
 .post-view .content .image-gallery img {
-    max-height: var(--gallery-height); 
+    /* max-height: var(--gallery-height);  */
+    max-height: 100%;
     width: auto; 
-    max-width: 100%;
+    /* max-width: 100%; */
     object-fit: contain;
     align-self: flex-start;
 }
