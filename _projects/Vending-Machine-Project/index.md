@@ -13,6 +13,6 @@ main-image: /vendingmachinemockup.jpg
 ---
 
 {% include image-gallery.html images="VendingMachineInProgress.jpg" height="400" %}
-<span style="font-size: 10px">Initial Designing Process/</span>
+<span style="font-size: 10px">Initial Designing Process</span>
 {% include image-gallery.html images="CoinReader.jpg" height="400" %}
-<span style="font-size: 10px">Troubleshooting coin reading module/</span>
+<span style="font-size: 10px">Troubleshooting coin reading module</span>
