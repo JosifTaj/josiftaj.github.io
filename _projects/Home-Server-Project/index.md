@@ -10,3 +10,6 @@ skills:
 - SSH / Terminal
 main-image: /TrueNAS OS.png
 ---
+
+{% include image-gallery.html images="TrueNAS OS.png" height="500" %}
+<span style="font-size: 10px">Server Homescreen</span>
