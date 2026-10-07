@@ -15,6 +15,6 @@ main-image: /InSpace 2026 Launch Canada.jpg
 Check out past launches [here](https://www.cuinspace.ca/)
 
 {% include image-gallery.html images="InSpace 2026 Launch Canada.jpg" height="400" %}
-<span style="font-size: 10px">"2026 Launch Canada/</span>
+<span style="font-size: 10px">"2026 Launch Canada</span>
 {% include image-gallery.html images="InSpace CR25.jpg" height="400" %}
-<span style="font-size: 10px">"2025 Launch Canada/</span>
+<span style="font-size: 10px">"2025 Launch Canada</span>
