@@ -9,5 +9,5 @@ skills:
 - Soldering
 - Iterative Process
 - Project Management
-main-image: /vending-machine.png
+main-image: /vendingmachinemockup.jpg
 ---
