@@ -606,13 +606,14 @@ footer p {
     border-radius: 6px;
     margin-bottom: 10px; */
 
+    display: block;
     width: auto;
     max-width: 100%;
-    max-height: 30vh; /* Limits height to 30% of the screen/viewport height */
-    height: auto;     /* Maintains the original aspect ratio without cropping */
-    object-fit: contain; /* Prevents image stretching or cropping */
+    max-height: 30vh;
+    height: auto;
+    object-fit: contain;
     border-radius: 6px;
-    margin-bottom: 10px;
+    margin: 0 auto 10px auto; /* Centered horizontally with 10px bottom margin */
 }
 
 .post-view .summary .project-description {
