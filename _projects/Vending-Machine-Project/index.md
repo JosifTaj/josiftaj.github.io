@@ -11,3 +11,6 @@ skills:
 - Project Management
 main-image: /vendingmachinemockup.jpg
 ---
+
+{% include image-gallery.html images="VendingMachineInProgress.jpg" height="400" %}
+{% include image-gallery.html images="CoinReader.jpg" height="400" %}
