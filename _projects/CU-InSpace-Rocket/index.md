@@ -12,4 +12,4 @@ skills:
 main-image: /InSpace 2026 Launch Canada.jpg
 ---
 ## Team Website
-Check out past launches [->here<-](https://www.cuinspace.ca/)
+Check out past launches [here](https://www.cuinspace.ca/)
