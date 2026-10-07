@@ -28,9 +28,9 @@ resume-url: ./assets/Josif_Taj_Resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: josif-taj-10880a201    # https://www.linkedin.com/in/{your url slug} 
+  github:     # https://github.com/{your url slug} 
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -95,7 +95,7 @@ colors: # this is the basic theme
   border: "#ddd"
   link: "#4a76ee"
   highlight: "#0c0cf2"
-  background: "#ffffff"
+  background: "#D1D1D1"
   light_background: "#f3f5fb"
 
 # A few examples. 
