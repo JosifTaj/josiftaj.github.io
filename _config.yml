@@ -55,21 +55,22 @@ skills:
   - category: Prototyping & Fabrication
     tools:
       - Mechanical Fabrication
+      - 3D Printing
       - MDF / Wood Working
       - Electronics & Hardware Prototyping
-      - Arduino
+      - Arduino / Raspberry Pi
   - category: Programming & Computation
     tools:
       - Python
       - C / C++
+      - HTML + CSS
       - MATLAB
-  - category: Systems, Networking & DevOps
+  - category: Systems and Networking
     tools:
       - Linux
       - TrueNAS
-      - Tailscale (Remote Networking)
+      - Tailscale Remote Networking
       - PC Hardware
-      - Git / GitHub
       - Excel
 
 
@@ -80,12 +81,12 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
 colors:
-  text: "#2c3333"
-  border: "#e0f2ef"
-  link: "#40b3a2"
-  highlight: "#2a9d8f"
-  background: "#f7fbfa"
-  light_background: "#f0f9f7"
+  text: "#e2e8f0"
+  border: "#1e293b"
+  link: "#38bdf8"
+  highlight: "#0284c7"
+  background: "#0f172a"
+  light_background: "#1e293b"
 
 # A few examples. 
 basic theme:
