@@ -592,11 +592,17 @@ footer p {
 }
 
 .post-view .summary img {
-    width: 100%;
+    /* width: 100%;
     height: 100%;  /* Changed to 100% to fill the container */
-    object-fit: cover;
+    /* object-fit: cover;
     border-radius: 6px;
     aspect-ratio: 3/1;
+    margin-bottom: 10px; */
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 6px;
     margin-bottom: 10px;
 }
 
@@ -642,10 +648,9 @@ footer p {
 }
 
 .post-view .content .image-gallery img {
-    /* max-height: var(--gallery-height);  */
-    max-height: 100%;
+    max-height: var(--gallery-height); 
     width: auto; 
-    /* max-width: 100%; */
+    max-width: 100%;
     object-fit: contain;
     align-self: flex-start;
 }
