@@ -84,9 +84,9 @@ colors:
   text: "#e2e8f0"
   border: "#FF0000" #Red
   link: "#38bdf8"
-  highlight: "#0284c7"
+  highlight: "#00FF00" #Green
   background: "#0f172a"
-  light_background: "#25335C"
+  light_background: "#1e293b"
 
 # A few examples. 
 # basic theme:
